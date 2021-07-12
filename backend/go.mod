@@ -10,9 +10,8 @@ require (
 	github.com/google/go-cmp v0.5.2 // indirect
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
-	github.com/jackc/pgproto3/v2 v2.0.7 // indirect
-	github.com/jackc/pgtype v1.7.0
-	github.com/jackc/pgx/v4 v4.11.0
+	github.com/jackc/pgtype v1.8.0
+	github.com/jackc/pgx/v4 v4.12.0
 	github.com/kr/text v0.2.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/nxadm/tail v1.4.5 // indirect
@@ -20,9 +19,7 @@ require (
 	github.com/onsi/gomega v1.10.3 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/text v0.3.5 // indirect
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
+	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 	gopkg.in/ezzarghili/recaptcha-go.v4 v4.3.0
 )
